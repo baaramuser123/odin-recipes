@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+
+a {
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+
+ul {
+    padding-left: 0%;
+    padding-top: 30px;
+    background-color: salmon;
+}
+
+ol {
+    padding-left: 0%;
+    padding-top: 30px;
+    background-color: violet;
+}
+
+li {
+    list-style: circle;
+    padding-bottom: 30px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+    text-align: center;
+}
